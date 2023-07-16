@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](src/Blue%20Corporate%20Linkedin%20Banner%20(3)%202.png)
+
 <!--
 **analyst-mark/analyst-mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
